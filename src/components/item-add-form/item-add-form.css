@@ -1,0 +1,16 @@
+.btn-add-label {
+  padding-right: 0.5em;
+  white-space: nowrap;
+}
+
+.fa-plus {
+  color: #809bb8;
+}
+
+.item-add-form {
+  margin-top: 14px;
+}
+
+.item-add-form input {
+  margin-right: 3px;
+}
